@@ -1,0 +1,30 @@
+_repo: History-of-Orrin-Pierce_44658
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44658-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: American Sunday-School Union
+    alias: Union, American Sunday-School
+    gutenberg_agent_id: '2632'
+    url: http://www.gutenberg.org/2009/agents/2632
+    wikipedia: http://en.wikipedia.org/wiki/American_Missionary_Fellowship
+description: ''
+gutenberg_issued: '2014-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday schools -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sunday school literature'
+- !lcc 'PZ'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+title: History of Orrin Pierce
+url: http://www.gutenberg.org/ebooks/44658
